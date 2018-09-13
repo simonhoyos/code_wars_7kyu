@@ -1,0 +1,16 @@
+{
+  "name": "code_wars_7kyu",
+  "version": "1.0.0",
+  "description": "Second part of a series of repositories where I'm going to solve 100 problems of each level in CodeWars (using JavaScript). Solving 7 kyu problems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "git@github.com/shmesa22/code_wars_7kyu",
+  "author": "Simon Hoyos <shmesa23@gmail.com> (https://www.linkedin.com/in/simonhoyos)",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "jest": "23.2.0"
+  }
+}
