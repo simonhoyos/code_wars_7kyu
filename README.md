@@ -5,3 +5,4 @@
 1. [The coupon code](https://www.codewars.com/kata/the-coupon-code)
 1. [Triangular treasura](https://www.codewars.com/kata/triangular-treasure)
 1. [The highest profit wins](https://www.codewars.com/kata/the-highest-profit-wins)
+1. [Count the digit](https://www.codewars.com/kata/count-the-digit)
