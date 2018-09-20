@@ -7,3 +7,4 @@
 1. [The highest profit wins](https://www.codewars.com/kata/the-highest-profit-wins)
 1. [Count the digit](https://www.codewars.com/kata/count-the-digit)
 1. [Broken sequence](https://www.codewars.com/kata/broken-sequence)
+1. [Find the middle element](https://www.codewars.com/kata/find-the-middle-element)
