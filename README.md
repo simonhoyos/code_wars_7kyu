@@ -8,3 +8,4 @@
 1. [Count the digit](https://www.codewars.com/kata/count-the-digit)
 1. [Broken sequence](https://www.codewars.com/kata/broken-sequence)
 1. [Find the middle element](https://www.codewars.com/kata/find-the-middle-element)
+1. [Recursive reverse string](https://www.codewars.com/kata/recursive-reverse-string)
