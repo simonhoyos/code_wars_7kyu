@@ -9,3 +9,4 @@
 1. [Broken sequence](https://www.codewars.com/kata/broken-sequence)
 1. [Find the middle element](https://www.codewars.com/kata/find-the-middle-element)
 1. [Recursive reverse string](https://www.codewars.com/kata/recursive-reverse-string)
+1. [Find the stray number](https://www.codewars.com/kata/find-the-stray-number)
