@@ -12,3 +12,4 @@
 1. [Find the stray number](https://www.codewars.com/kata/find-the-stray-number)
 1. [Gauß needs help! (Sums of a lot of numbers).](https://www.codewars.com/kata/gauss-needs-help-sums-of-a-lot-of-numbers)
 1. [List to array](https://www.codewars.com/kata/list-to-array)
+1. [Vampire numbers 1](https://www.codewars.com/kata/vampire-numbers-1)
