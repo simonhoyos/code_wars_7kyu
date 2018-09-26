@@ -13,3 +13,4 @@
 1. [Gauß needs help! (Sums of a lot of numbers).](https://www.codewars.com/kata/gauss-needs-help-sums-of-a-lot-of-numbers)
 1. [List to array](https://www.codewars.com/kata/list-to-array)
 1. [Vampire numbers 1](https://www.codewars.com/kata/vampire-numbers-1)
+1. [Sum of a sequence](https://www.codewars.com/kata/sum-of-a-sequence)
