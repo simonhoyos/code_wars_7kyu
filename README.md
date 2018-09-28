@@ -15,3 +15,4 @@
 1. [Vampire numbers 1](https://www.codewars.com/kata/vampire-numbers-1)
 1. [Sum of a sequence](https://www.codewars.com/kata/sum-of-a-sequence)
 1. [Averages of numbers](https://www.codewars.com/kata/averages-of-numbers)
+1. [Find the capitals](https://www.codewars.com/kata/find-the-capitals)
