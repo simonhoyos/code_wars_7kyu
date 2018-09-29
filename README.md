@@ -16,3 +16,4 @@
 1. [Sum of a sequence](https://www.codewars.com/kata/sum-of-a-sequence)
 1. [Averages of numbers](https://www.codewars.com/kata/averages-of-numbers)
 1. [Find the capitals](https://www.codewars.com/kata/find-the-capitals)
+1. [Parts of a list](https://www.codewars.com/kata/parts-of-a-list)
