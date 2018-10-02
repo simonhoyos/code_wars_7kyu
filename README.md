@@ -19,3 +19,4 @@
 1. [Parts of a list](https://www.codewars.com/kata/parts-of-a-list)
 1. [Deodorant evaporator](https://www.codewars.com/kata/deodorant-evaporator)
 1. [factorial](https://www.codewars.com/kata/factorial)
+1. [Moves in squared strings](https://www.codewars.com/kata/moves-in-squared-strings-i)
