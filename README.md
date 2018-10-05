@@ -22,3 +22,4 @@
 1. [Moves in squared strings](https://www.codewars.com/kata/moves-in-squared-strings-i)
 1. [Sum of all the multiples of 3 or 5](https://www.codewars.com/kata/sum-of-all-the-multiples-of-3-or-5)
 1. [Speed control](https://www.codewars.com/kata/speed-control)
+1. [Two fighters one winner](https://www.codewars.com/kata/two-fighters-one-winner)
