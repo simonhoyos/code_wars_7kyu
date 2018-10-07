@@ -24,3 +24,4 @@
 1. [Speed control](https://www.codewars.com/kata/speed-control)
 1. [Two fighters one winner](https://www.codewars.com/kata/two-fighters-one-winner)
 1. [Kaprekar split](https://www.codewars.com/kata/kaprekar-split)
+1. [Bugs life](https://www.codewars.com/kata/bugs-life)
