@@ -25,3 +25,4 @@
 1. [Two fighters one winner](https://www.codewars.com/kata/two-fighters-one-winner)
 1. [Kaprekar split](https://www.codewars.com/kata/kaprekar-split)
 1. [Bugs life](https://www.codewars.com/kata/bugs-life)
+1. [Ball and cups](https://www.codewars.com/kata/ball-and-cups)
