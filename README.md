@@ -26,3 +26,4 @@
 1. [Kaprekar split](https://www.codewars.com/kata/kaprekar-split)
 1. [Bugs life](https://www.codewars.com/kata/bugs-life)
 1. [Ball and cups](https://www.codewars.com/kata/ball-and-cups)
+1. [Simple subtraction](https://www.codewars.com/kata/simple-subtraction)
