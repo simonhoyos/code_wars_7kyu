@@ -28,3 +28,4 @@
 1. [Ball and cups](https://www.codewars.com/kata/ball-and-cups)
 1. [Simple subtraction](https://www.codewars.com/kata/simple-subtraction)
 1. [Ordered count of characters](https://www.codewars.com/kata/ordered-count-of-characters)
+1. [Waiting room](https://www.codewars.com/kata/waiting-room)
