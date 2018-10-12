@@ -29,3 +29,4 @@
 1. [Simple subtraction](https://www.codewars.com/kata/simple-subtraction)
 1. [Ordered count of characters](https://www.codewars.com/kata/ordered-count-of-characters)
 1. [Waiting room](https://www.codewars.com/kata/waiting-room)
+1. [Simple string division](https://www.codewars.com/kata/simple-string-division)
