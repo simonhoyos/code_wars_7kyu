@@ -31,3 +31,4 @@
 1. [Waiting room](https://www.codewars.com/kata/waiting-room)
 1. [Simple string division](https://www.codewars.com/kata/simple-string-division)
 1. [Battle of the characters (easy)](https://www.codewars.com/kata/battle-of-the-characters-easy)
+1. [form the minimum](https://www.codewars.com/kata/form-the-minimum)
