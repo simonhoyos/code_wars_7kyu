@@ -33,3 +33,4 @@
 1. [Battle of the characters (easy)](https://www.codewars.com/kata/battle-of-the-characters-easy)
 1. [form the minimum](https://www.codewars.com/kata/form-the-minimum)
 1. [Unlucky days](https://www.codewars.com/kata/unlucky-days)
+1. [Remove duplicate words](https://www.codewars.com/kata/remove-duplicate-words)
