@@ -34,3 +34,4 @@
 1. [form the minimum](https://www.codewars.com/kata/form-the-minimum)
 1. [Unlucky days](https://www.codewars.com/kata/unlucky-days)
 1. [Remove duplicate words](https://www.codewars.com/kata/remove-duplicate-words)
+1. [Simple string division II](https://www.codewars.com/kata/simple-string-division-ii)
