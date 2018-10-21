@@ -36,3 +36,4 @@
 1. [Remove duplicate words](https://www.codewars.com/kata/remove-duplicate-words) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/remove_duplicate_words/index.js)
 1. [Simple string division II](https://www.codewars.com/kata/simple-string-division-ii) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/simple_string_division_ii/index.js)
 1. [Simple directions reversal](https://www.codewars.com/kata/simple-directions-reversal) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/simple_direction_reversal/index.js)
+1. [Cat and mouse - easy version](https://www.codewars.com/kata/cat-and-mouse-easy-version) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/cat_and_mouse_easy_version/index.js)
