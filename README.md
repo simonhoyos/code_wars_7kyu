@@ -39,3 +39,4 @@
 1. [Cat and mouse - easy version](https://www.codewars.com/kata/cat-and-mouse-easy-version) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/cat_and_mouse_easy_version/index.js)
 1. [Tabs to spaces](https://www.codewars.com/kata/tabs-to-spaces) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/tabs_to_spaces/index.js)
 1. [Simple fun #40 timed reading](https://www.codewars.com/kata/simple-fun-number-40-timed-reading) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/simple_fun_40_timed_reading/index.js)
+1. [Simple fun #2 circle of numbers](https://www.codewars.com/kata/simple-fun-number-2-circle-of-numbers) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/simple_fun_2_circle_of_numbers/index.js)
