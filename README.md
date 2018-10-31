@@ -41,3 +41,4 @@
 1. [Simple fun #40 timed reading](https://www.codewars.com/kata/simple-fun-number-40-timed-reading) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/simple_fun_40_timed_reading/index.js)
 1. [Simple fun #2 circle of numbers](https://www.codewars.com/kata/simple-fun-number-2-circle-of-numbers) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/simple_fun_2_circle_of_numbers/index.js)
 1. [The baby years I - baby counting](https://www.codewars.com/kata/the-baby-years-i-baby-counting) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/the_baby_years_i_baby_counting/index.js)
+1. [Small enough? - beginner](https://www.codewars.com/kata/small-enough-beginner) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/small_enough_beginner/index.js)
