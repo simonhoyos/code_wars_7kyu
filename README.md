@@ -43,3 +43,4 @@
 1. [The baby years I - baby counting](https://www.codewars.com/kata/the-baby-years-i-baby-counting) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/the_baby_years_i_baby_counting/index.js)
 1. [Small enough? - beginner](https://www.codewars.com/kata/small-enough-beginner) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/small_enough_beginner/index.js)
 1. [Find the divisors!](https://www.codewars.com/kata/find_the_divisors) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/find_the_divisors/index.js)
+1. [Odd or even?](https://www.codewars.com/kata/odd-or-even) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/odd_or_even/index.js)
