@@ -44,3 +44,4 @@
 1. [Small enough? - beginner](https://www.codewars.com/kata/small-enough-beginner) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/small_enough_beginner/index.js)
 1. [Find the divisors!](https://www.codewars.com/kata/find_the_divisors) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/find_the_divisors/index.js)
 1. [Odd or even?](https://www.codewars.com/kata/odd-or-even) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/odd_or_even/index.js)
+1. [Largest 5 digit number in a series](https://www.codewars.com/kata/largest-5-digit-number-in-a-series) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/largest_5_digit_number_in_a_series/index.js)
