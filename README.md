@@ -46,3 +46,4 @@
 1. [Odd or even?](https://www.codewars.com/kata/odd-or-even) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/odd_or_even/index.js)
 1. [Largest 5 digit number in a series](https://www.codewars.com/kata/largest-5-digit-number-in-a-series) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/largest_5_digit_number_in_a_series/index.js)
 1. [Product of maximus of array (array series #2)](https://www.codewars.com/kata/product-of-maximums-of-array-array-series-2) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/product_of_maximums_of_array_array_series_2/index.js)
+1. [Build a square](https://www.codewars.com/kata/build-a-square) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/build_a_square/index.js)
