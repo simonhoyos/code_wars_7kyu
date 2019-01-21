@@ -49,3 +49,4 @@
 1. [Build a square](https://www.codewars.com/kata/build-a-square) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/build_a_square/index.js)
 1. [Sort array by string length](https://www.codewars.com/kata/sort-array-by-string-length) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/sort_array_by_string_length/index.js)
 1. [Make a function that does arithmetic!](https://www.codewars.com/kata/make-a-function-that-does-arithmetic) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/make_a_function_that_does_arithmetic/index.js)
+1. [Rotate for max](https://www.codewars.com/kata/rotate-for-max) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/rotate_for_max/index.js)
