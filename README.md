@@ -51,3 +51,4 @@
 1. [Make a function that does arithmetic!](https://www.codewars.com/kata/make-a-function-that-does-arithmetic) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/make_a_function_that_does_arithmetic/index.js)
 1. [Rotate for max](https://www.codewars.com/kata/rotate-for-max) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/rotate_for_max/index.js)
 1. [Round to the next multiple of 5](https://www.codewars.com/kata/round-to-the-next-multiple-of-5) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/round_to_the_next_multiple_of_5/index.js)
+1. [Most digits](https://www.codewars.com/kata/most-digits) - [Solution](https://github.com/shmesa22/code_wars_7kyu/blob/master/src/most_digits/index.js)
