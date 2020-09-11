@@ -53,4 +53,5 @@
 1. [Round to the next multiple of 5](https://www.codewars.com/kata/round-to-the-next-multiple-of-5) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/round_to_the_next_multiple_of_5/index.js)
 1. [Most digits](https://www.codewars.com/kata/most-digits) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/most_digits/index.js)
 1. [Anagram Detection](https://www.codewars.com/kata/529eef7a9194e0cbc1000255) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/anagram_detection/index.js)
+1. [Alphabetical Addition](https://www.codewars.com/kata/5d50e3914861a500121e1958) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/alphabetical_addition/index.js)
 
