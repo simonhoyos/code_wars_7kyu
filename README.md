@@ -56,4 +56,5 @@
 1. [Alphabetical Addition](https://www.codewars.com/kata/5d50e3914861a500121e1958) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/alphabetical_addition/index.js)
 1. [Sum of numbers from 0 to N](https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/sum_of_numbers_from_0_to_n/index.js)
 1. [Two Oldest Ages](https://www.codewars.com/kata/511f11d355fe575d2c000001) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/two_oldest_ages/index.js)
+1. [Predict your age](https://www.codewars.com/kata/5aff237c578a14752d0035ae) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/predict_your_age/index.js)
 
