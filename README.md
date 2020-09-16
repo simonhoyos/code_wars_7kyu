@@ -58,4 +58,5 @@
 1. [Two Oldest Ages](https://www.codewars.com/kata/511f11d355fe575d2c000001) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/two_oldest_ages/index.js)
 1. [Predict your age](https://www.codewars.com/kata/5aff237c578a14752d0035ae) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/predict_your_age/index.js)
 1. [Flatten and sort an array](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/flatten_and_sort_an_array/index.js)
+1. [Remove anchor from URL](https://www.codewars.com/kata/51f2b4448cadf20ed0000386) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/remove_anchor_from_url/index.js)
 
