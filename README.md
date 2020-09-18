@@ -60,4 +60,5 @@
 1. [Flatten and sort an array](https://www.codewars.com/kata/57ee99a16c8df7b02d00045f) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/flatten_and_sort_an_array/index.js)
 1. [Remove anchor from URL](https://www.codewars.com/kata/51f2b4448cadf20ed0000386) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/remove_anchor_from_url/index.js)
 1. [Word values](https://www.codewars.com/kata/598d91785d4ce3ec4f000018) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/word_values/index.js)
+1. [Sum of minimums](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/sum_of_minimums/index.js)
 
