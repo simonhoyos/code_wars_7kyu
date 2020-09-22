@@ -62,4 +62,5 @@
 1. [Word values](https://www.codewars.com/kata/598d91785d4ce3ec4f000018) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/word_values/index.js)
 1. [Sum of minimums](https://www.codewars.com/kata/5d5ee4c35162d9001af7d699) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/sum_of_minimums/index.js)
 1. [Row weights](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/row_weights/index.js)
+1. [Coloured triangles](https://www.codewars.com/kata/5a25ac6ac5e284cfbe000111) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/coloured_triangles/index.js)
 
