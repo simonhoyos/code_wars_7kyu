@@ -64,4 +64,5 @@
 1. [Row weights](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/row_weights/index.js)
 1. [Coloured triangles](https://www.codewars.com/kata/5a25ac6ac5e284cfbe000111) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/coloured_triangles/index.js)
 1. [Love vs friendship](https://www.codewars.com/kata/59706036f6e5d1e22d000016) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/love_vs_friendship/index.js)
+1. [Sort out the men from boys](https://www.codewars.com/kata/5af15a37de4c7f223e00012d) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/sort_out_the_men_from_boys/index.js)
 
