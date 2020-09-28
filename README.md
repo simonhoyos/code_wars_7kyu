@@ -67,4 +67,5 @@
 1. [Sort out the men from boys](https://www.codewars.com/kata/5af15a37de4c7f223e00012d) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/sort_out_the_men_from_boys/index.js)
 1. [Sum of tringular numbers](https://www.codewars.com/kata/580878d5d27b84b64c000b51) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/sum_of_triangular_numbers/index.js)
 1. [Balanced number (special numbers series #1)](https://www.codewars.com/kata/5a4e3782880385ba68000018) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/balanced_number_special_numbers_series_1/index.js)
+1. [Form the largest](https://www.codewars.com/kata/5a4ea304b3bfa89a9900008e) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/form_the_largest/index.js)
 
