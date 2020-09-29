@@ -68,4 +68,5 @@
 1. [Sum of tringular numbers](https://www.codewars.com/kata/580878d5d27b84b64c000b51) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/sum_of_triangular_numbers/index.js)
 1. [Balanced number (special numbers series #1)](https://www.codewars.com/kata/5a4e3782880385ba68000018) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/balanced_number_special_numbers_series_1/index.js)
 1. [Form the largest](https://www.codewars.com/kata/5a4ea304b3bfa89a9900008e) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/form_the_largest/index.js)
+1. [Alphabet war](https://www.codewars.com/kata/59377c53e66267c8f6000027) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/alphabet_war/index.js)
 
