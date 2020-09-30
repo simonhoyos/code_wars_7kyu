@@ -69,4 +69,5 @@
 1. [Balanced number (special numbers series #1)](https://www.codewars.com/kata/5a4e3782880385ba68000018) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/balanced_number_special_numbers_series_1/index.js)
 1. [Form the largest](https://www.codewars.com/kata/5a4ea304b3bfa89a9900008e) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/form_the_largest/index.js)
 1. [Alphabet war](https://www.codewars.com/kata/59377c53e66267c8f6000027) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/alphabet_war/index.js)
+1. [Simple fun #74 growing plant](https://www.codewars.com/kata/58941fec8afa3618c9000184) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/simple_fun_74_growing_plant/index.js)
 
