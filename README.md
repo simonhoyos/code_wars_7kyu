@@ -74,4 +74,5 @@
 1. [Going to the cinema](https://www.codewars.com/kata/562f91ff6a8b77dfe900006e) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/going_to_the_cinema/index.js)
 1. [Minimize sum of array (array series #1)](https://www.codewars.com/kata/5a523566b3bfa84c2e00010b) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/minimize_sum_of_array_array_series_1/index.js)
 1. [All inclusive?](https://www.codewars.com/kata/5700c9acc1555755be00027e) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/all_inclusive/index.js)
+1. [My languages](https://www.codewars.com/kata/5b16490986b6d336c900007d) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/my_languages/index.js)
 
