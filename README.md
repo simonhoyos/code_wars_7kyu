@@ -76,4 +76,5 @@
 1. [All inclusive?](https://www.codewars.com/kata/5700c9acc1555755be00027e) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/all_inclusive/index.js)
 1. [My languages](https://www.codewars.com/kata/5b16490986b6d336c900007d) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/my_languages/index.js)
 1. [Halving sum](https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/halving_sum/index.js)
+1. [Reverse a number](https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/reverse_a_number/index.js)
 
