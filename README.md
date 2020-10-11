@@ -78,4 +78,5 @@
 1. [Halving sum](https://www.codewars.com/kata/5a58d46cfd56cb4e8600009d) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/halving_sum/index.js)
 1. [Reverse a number](https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/reverse_a_number/index.js)
 1. [Simple remove duplicates](https://www.codewars.com/kata/5ba38ba180824a86850000f7) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/simple_remove_duplicates/index.js)
+1. [Power of two](https://www.codewars.com/kata/534d0a229345375d520006a0) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/power_of_two/index.js)
 
