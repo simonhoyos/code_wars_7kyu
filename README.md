@@ -80,4 +80,5 @@
 1. [Simple remove duplicates](https://www.codewars.com/kata/5ba38ba180824a86850000f7) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/simple_remove_duplicates/index.js)
 1. [Power of two](https://www.codewars.com/kata/534d0a229345375d520006a0) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/power_of_two/index.js)
 1. [Digital cypher](https://www.codewars.com/kata/592e830e043b99888600002d) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/digital_cypher/index.js)
+1. [Thinkful - string drills: repeater](https://www.codewars.com/kata/585a1a227cb58d8d740001c3) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/thinkful_string_drills_repeater/index.js)
 
