@@ -82,4 +82,5 @@
 1. [Digital cypher](https://www.codewars.com/kata/592e830e043b99888600002d) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/digital_cypher/index.js)
 1. [Thinkful - string drills: repeater](https://www.codewars.com/kata/585a1a227cb58d8d740001c3) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/thinkful_string_drills_repeater/index.js)
 1. [Sum of odd cubed numbers](https://www.codewars.com/kata/580dda86c40fa6c45f00028a) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/sum_of_odd_cubed_numbers/index.js)
+1. [Sort numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/sort_numbers/index.js)
 
