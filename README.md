@@ -84,4 +84,5 @@
 1. [Sum of odd cubed numbers](https://www.codewars.com/kata/580dda86c40fa6c45f00028a) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/sum_of_odd_cubed_numbers/index.js)
 1. [Sort numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/sort_numbers/index.js)
 1. [Find the vowels](https://www.codewars.com/kata/5680781b6b7c2be860000036) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/find_the_vowels/index.js)
+1. [Maximum product](https://www.codewars.com/kata/5a4138acf28b82aa43000117) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/maximum_product/index.js)
 
