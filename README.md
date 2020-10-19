@@ -86,4 +86,5 @@
 1. [Find the vowels](https://www.codewars.com/kata/5680781b6b7c2be860000036) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/find_the_vowels/index.js)
 1. [Maximum product](https://www.codewars.com/kata/5a4138acf28b82aa43000117) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/maximum_product/index.js)
 1. [Indexed capitalization](https://www.codewars.com/kata/59cfc09a86a6fdf6df0000f1) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/indexed_capitalization/index.js)
+1. [Compare strings by sum of chars](https://www.codewars.com/kata/576bb3c4b1abc497ec000065) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/compare_strings_by_sum_of_chars/index.js)
 
