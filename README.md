@@ -88,4 +88,5 @@
 1. [Indexed capitalization](https://www.codewars.com/kata/59cfc09a86a6fdf6df0000f1) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/indexed_capitalization/index.js)
 1. [Compare strings by sum of chars](https://www.codewars.com/kata/576bb3c4b1abc497ec000065) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/compare_strings_by_sum_of_chars/index.js)
 1. [Functional addition](https://www.codewars.com/kata/538835ae443aae6e03000547) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/functional_addition/index.js)
+1. [Counting array elements](https://www.codewars.com/kata/5569b10074fe4a6715000054) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/counting_array_elements/index.js)
 
