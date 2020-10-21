@@ -89,4 +89,5 @@
 1. [Compare strings by sum of chars](https://www.codewars.com/kata/576bb3c4b1abc497ec000065) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/compare_strings_by_sum_of_chars/index.js)
 1. [Functional addition](https://www.codewars.com/kata/538835ae443aae6e03000547) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/functional_addition/index.js)
 1. [Counting array elements](https://www.codewars.com/kata/5569b10074fe4a6715000054) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/counting_array_elements/index.js)
+1. [Alphabet symmetry](https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/alphabet_symmetry/index.js)
 
