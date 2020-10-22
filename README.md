@@ -91,4 +91,5 @@
 1. [Counting array elements](https://www.codewars.com/kata/5569b10074fe4a6715000054) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/counting_array_elements/index.js)
 1. [Alphabet symmetry](https://www.codewars.com/kata/59d9ff9f7905dfeed50000b0) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/alphabet_symmetry/index.js)
 1. [Complete the pattern #1](https://www.codewars.com/kata/5572f7c346eb58ae9c000047) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/complete_the_pattern_1/index.js)
+1. [Sum of array singles](https://www.codewars.com/kata/59f11118a5e129e591000134) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/sum_of_array_singles/index.js)
 
