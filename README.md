@@ -94,4 +94,5 @@
 1. [Sum of array singles](https://www.codewars.com/kata/59f11118a5e129e591000134) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/sum_of_array_singles/index.js)
 1. [Simple fun #152 invite more women](https://www.codewars.com/kata/58acfe4ae0201e1708000075) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/simple_fun_152_invite_more_women/index.js)
 1. [Numbers in strings](https://www.codewars.com/kata/59dd2c38f703c4ae5e000014) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/numbers_in_strings/index.js)
+1. [Simple beads count](https://www.codewars.com/kata/58712dfa5c538b6fc7000569) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/simple_beads_count/index.js)
 
