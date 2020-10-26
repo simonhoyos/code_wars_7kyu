@@ -95,4 +95,5 @@
 1. [Simple fun #152 invite more women](https://www.codewars.com/kata/58acfe4ae0201e1708000075) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/simple_fun_152_invite_more_women/index.js)
 1. [Numbers in strings](https://www.codewars.com/kata/59dd2c38f703c4ae5e000014) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/numbers_in_strings/index.js)
 1. [Simple beads count](https://www.codewars.com/kata/58712dfa5c538b6fc7000569) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/simple_beads_count/index.js)
+1. [No oddities here](https://www.codewars.com/kata/51fd6bc82bc150b28e0000ce) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/no_oddities_here/index.js)
 
