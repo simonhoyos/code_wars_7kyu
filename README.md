@@ -98,4 +98,5 @@
 1. [No oddities here](https://www.codewars.com/kata/51fd6bc82bc150b28e0000ce) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/no_oddities_here/index.js)
 1. [STRONGN Strong number (special numbers series #2)](https://www.codewars.com/kata/5a4d303f880385399b000001) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/strong_number/index.js)
 1. [Even numbers in an array](https://www.codewars.com/kata/5a431c0de1ce0ec33a00000c) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/even_numbers_in_an_array/index.js)
+1. [Simple string reversal](https://www.codewars.com/kata/5a71939d373c2e634200008e) - [Solution](https://github.com/simonhoyos/code_wars_7kyu/blob/master/src/simple_string_reversal/index.js)
 
